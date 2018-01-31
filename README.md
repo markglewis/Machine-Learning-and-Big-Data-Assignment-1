@@ -1,20 +1,20 @@
 # Machine-Learning-and-Big-Data-Assignment-1
 
-1. Install virtual environment
+1. Install virtual environment<br />
 
-pip install virtualenv
-virtualenv venv
+pip install virtualenv<br />
+virtualenv venv<br />
 
-2. Activate Environment
+2. Activate Environment<br />
 
-source venv/bin/activate
-pip install -r requirements.txt
-installl package for scrapeSteam.py
+source venv/bin/activate<br />
+pip install -r requirements.txt<br />
+installl package for scrapeSteam.py<br />
 
 run python script
-the script takes the top selling games on steam
-records where they are on the chart into a csv file with:
--title
--release date
--price
--reviews
+the script takes the top selling games on steam<br />
+records where they are on the chart into a csv file with:<br />
+-title<br />
+-release date<br />
+-price<br />
+-reviews<br />
