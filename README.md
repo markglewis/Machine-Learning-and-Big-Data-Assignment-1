@@ -9,6 +9,7 @@ virtualenv venv
 
 source venv/bin/activate
 pip install -r requirements.txt
+installl package for scrapeSteam.py
 
 run python script
 the script takes the top selling games on steam
